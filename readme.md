@@ -59,6 +59,17 @@ Battery replacements are **super expensive** — up to 40% of the EV cost. With 
 ## Demo
 ![Demo](vid1.gif)
 
+## 📊 Dataset Source
+
+This dataset was **AI-generated** using Python.
+
+### ❓ AI-Generated?
+
+- Real-world battery health datasets are **hard to find** and often **lack labeled health status**.
+- To build and test ML models, we need clean, labeled data — so this dataset was created using **domain knowledge + AI logic**.
+- It reflects realistic EV battery behavior patterns like degradation due to high charge cycles, temperature, and fast charging.
+
+
 
 ## 📦 Installation
 
