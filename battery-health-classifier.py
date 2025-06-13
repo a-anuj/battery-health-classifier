@@ -33,9 +33,6 @@ norm_l = Normalization()
 norm_l.adapt(x_train.values)
 x_train_norm = norm_l(x_train)
 
-print(x_train_norm)
-
-
 
 model = Sequential(
     [
